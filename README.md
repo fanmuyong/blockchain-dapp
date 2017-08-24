@@ -23,8 +23,6 @@
 | 第六课 | 项目实战-积分交易系统原型
 | 第七课 | 桌面应用-以太尔简易钱包开发
 
-## 架构示意 ##
-
 ## 参考网站 ##
 
 1. 以太坊官方Github: [https://github.com/ethereum](https://github.com/ethereum "以太坊Gihub")<br>
