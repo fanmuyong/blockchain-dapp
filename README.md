@@ -4,7 +4,7 @@
 
 ## 基本信息 ##
 
-- **教程作者**：sunnyFrank
+- **教程作者**：sunnyfrank
 - **教程简介**：本教程是一套针对以太坊爱好者和初学者对区块链应用开发的入门级教程，包含完整的源代码。
 - **开发环境**：Ethereum 1.6v + Nodejs 6.9.5v + Express + solidity
 - **开发工具**：Sublime Text 3
